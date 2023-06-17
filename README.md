@@ -1,2 +1,5 @@
 # project-1
-demo
+public abc{
+public static void main{
+system.out.println("HI");
+}
